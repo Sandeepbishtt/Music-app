@@ -1,6 +1,6 @@
 # Sangeet+ 
 
-Music-App usin React Js & Hooks
+Music-App using React Js & Hooks
 
 
 ## Tech Stack
